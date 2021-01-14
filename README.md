@@ -1,2 +1,3 @@
 # hello-world
-Just following the tutorial
+
+Trying to get my hands dirty with the open source business!!
